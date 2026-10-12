@@ -1,0 +1,16 @@
+**/__pycache__/
+*.nsys-rep
+*.qdstrm
+.VSCodeCounter
+download
+*.log
+*.jsonl
+output
+**/*.egg-info
+**/.ruff_cache
+**/.so
+*.so
+.claude
+**/build
+_deps
+**/.cache
